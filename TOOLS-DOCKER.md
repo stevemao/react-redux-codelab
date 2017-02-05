@@ -10,7 +10,7 @@ docker pull devillex/docker-firebase
 ```
 
 ### Commands
-  * start a local server (dev) with hot reloading (http://localhost:3000)
+  * start a local server (dev) with hot reloading (https://webpack.imaginetoolbox.com:3000)
 ```bash
 docker run -it --rm \
   -p 3000:3000 \
